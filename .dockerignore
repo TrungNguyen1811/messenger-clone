@@ -1,0 +1,6 @@
+node_modules
+.next
+.git
+.vscode
+.swc
+__tests__
